@@ -1,11 +1,18 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-2.5.md
+Assignment 2.5 — HTML Foundations Mini-Project[cite: 10]
+Task: Build a complete personal introduction webpage from scratch.[cite: 10]
+Required sections:
+- Page title and heading[cite: 10]
+- About Me[cite: 10]
+- Education[cite: 10]
+- Technical Skills[cite: 10]
+- Hobbies[cite: 10]
+- Contact Information[cite: 10]
+Rules:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Use only HTML; CSS is not required.[cite: 10]
+2. Use correct document structure and semantic headings.[cite: 10]
+3. Arrange sections in a clean order.[cite: 10]
+4. Save the HTML file named `index.html`.[cite: 10]
+5. Commit the final code to a Git repository.[cite: 10]
+Submission: The complete personal introduction webpage, HTML file, and GitHub link.[cite: 10]
